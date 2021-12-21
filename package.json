@@ -6,7 +6,9 @@
     "@types/react": "^16.8.2",
     "@types/react-dom": "^16.8.0",
     "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react-dom": "^16.8.0",
+    "@ant-design/icons": "4.7.0",
+    "antd": "4.17.4"
   },
   "scripts": {
     "start": "react-scripts-ts start",
